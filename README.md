@@ -1,4 +1,4 @@
-#  F O O D M A P
+#  F O O D S Y
 
 Crea una web-app que a través de un input pueda filtrar los restaurantes
 que se encuentran cerca de ti *(Tú decides la estructura que tendrán tus datos,

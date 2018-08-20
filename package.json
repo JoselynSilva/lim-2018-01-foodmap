@@ -1,10 +1,15 @@
 {
-  "name": "lim-2018-01-foodmap",
+  "name": "foodsy",
   "version": "1.0.0",
   "description": "Wep App de comida.",
-  "main": "index.js",
+  "main": "src/splash.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "htmlhint": "htmlhint src/*.html test/*.html",
+    "eslint": "eslint --ext .js src/ test/",
+    "pretest": "npm run eslint && npm run htmlhint",
+    "test-browser": "opener ./test/index.html",
+    "test-node": "nyc mocha ./test/headless.js && nyc report --reporter=html",
+    "test": "npm run test-node && npm run test-browser"
   },
   "repository": {
     "type": "git",
@@ -17,6 +22,11 @@
   },
   "homepage": "https://github.com/jslyne/lim-2018-01-foodmap#readme",
   "dependencies": {
-    "gitignore": "^0.6.0"
+    "chai": "^4.1.2",
+    "eslint": "^4.19.1",
+    "htmlhint": "^0.9.13",
+    "gitignore": "^0.6.0",
+    "mocha": "^5.1.1",
+    "nyc": "^11.7.1"
   }
 }
