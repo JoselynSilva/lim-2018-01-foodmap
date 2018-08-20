@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Monoton');
+
+.section-nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 2;
+}
+
+.hero-head {
+    background-color: white;
+}
+.panel-block {
+    margin: 10px;
+}
+
+.imagen {
+    height: 180px;
+    line-height: 180px;
+}
+
+.input {
+    text-align: center;
+    font-size: 12px;
+}
+
+.panel-container {
+    margin-top: 200px;
+}
+
+.title {
+    margin: 0px;
+    padding: 0px;
+    font-size: 25px;
+    font-family: 'Monoton', cursive;
+}

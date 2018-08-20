@@ -1,0 +1,22 @@
+{
+  "name": "lim-2018-01-foodmap",
+  "version": "1.0.0",
+  "description": "Wep App de comida.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jslyne/lim-2018-01-foodmap.git"
+  },
+  "author": "Jos Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jslyne/lim-2018-01-foodmap/issues"
+  },
+  "homepage": "https://github.com/jslyne/lim-2018-01-foodmap#readme",
+  "dependencies": {
+    "gitignore": "^0.6.0"
+  }
+}

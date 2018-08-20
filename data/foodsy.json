@@ -1,0 +1,202 @@
+[
+    {
+        "name": "CALA",
+        "address": "Playa Barranquito Circuito Vial Costa Verde",
+        "district": "Barranco",
+        "type": "Pescados Mariscos Internacional Ceviche",
+        "photo": "https://media-cdn.tripadvisor.com/media/photo-w/0b/bb/ff/56/photo0jpg.jpg",
+        "link": "https://goo.gl/c982rG",
+        "schedule": "Lunes a domingo apartir de las 12 hrs.",
+        "description": "Déjate encantar por el sonido del mar y una de las mejores vistas de la ciudad, su gastronomía y el ambiente que ofrecemos."
+    },
+    {
+        "name": "PARRITECA",
+        "address": "Av. Republica de Panama 6558",
+        "district": "Barranco",
+        "type": "Carnes Parrillas Pollo",
+        "photo": "https://media-cdn.tripadvisor.com/media/photo-w/0d/91/33/3c/muy-buen-ambiente.jpg",
+        "link": "https://www.facebook.com/LaParritecaPeru/",
+        "schedule": "Lunes a domingo 11:00 a 23:00 h.",
+        "description": "La Parriteca les da la bienvenida a nuestra exclusiva selección de carnes Argentina, Uruguayas y Americanas de la más alta calidad para exceder sus más altas expectativas en términos de sabor, textura y frescura."
+    },
+    {
+        "name": "SANGUCHERIA",
+        "address": "Av. Almirante Miguel Grau 393",
+        "district": "Barranco",
+        "type": "Fast Food Comida Rapida Hamburguesa",
+        "photo": "https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/10998014_10153570747274560_6576041860808587142_n.jpg?_nc_cat=0&oh=ef87191a2cc8fb8a6c4dd6d3c39251a9&oe=5C0DAE5A",
+        "link": "https://www.facebook.com/sangucheriarefilo/",
+        "schedule": "Lunes a domingo 08:30 a 15:00 h.",
+        "description": "Sangucheria Peruana "
+    },
+    {
+        "name": "MIRASOL",
+        "address": "Paseo Soldado Desconocido 209",
+        "district": "Chorrillos",
+        "type": "Pescados Mariscos Cweviche",
+        "photo": "https://media-cdn.tripadvisor.com/media/photo-w/05/aa/7f/7c/mirasol.jpg",
+        "link": "https://www.facebook.com/Restaurante-Mirasol-223235144481080/",
+        "schedule": "Martes a Domingo 12:00 a 17:00 h.",
+        "description": "Disfruta de una excelente experiencia almorzando frente al mar."
+    },
+    {
+        "name": "HORNERO",
+        "address": "Malecon Almirante Miguel Grau 983",
+        "district": "Chorrillos",
+        "type": "Carnes Parrillas Pollo Criollo",
+        "photo": "https://media-cdn.tripadvisor.com/media/photo-w/10/d6/56/56/si-pasas-por-lima-visita.jpg",
+        "link": "http://www.elhornero.com.pe/chorrillos.php",
+        "schedule": "Lunes a Domingo 12:00 a 23:30 h.",
+        "description": "Hace más de 15 años, Armando Tafur siguió un sueño de éxito, tener el Restaurante con las mejores Carnes y Parrillas de Lima. Abriendo así su primer restaurante “El HORNERO” en el emblemático distrito de Chorrillos."
+    },
+    {
+        "name": "KFC",
+        "address": "Av. Paseo de la Republica 1650",
+        "district": "Chorrillos",
+        "type": "Fast Food Comida Rapida",
+        "photo": "https://realplaza.pe/uploads/tiendas-ws/kfc-11180.jpg",
+        "link": "https://www.kfc.com.pe/Online/Home/Home?gclid=CjwKCAjwwdTbBRAIEiwAYQf_E2CE6_YfmEk0-3FOQyRE0sKxga6ll4HE4lS9jGHpQEX4zlvqrf5ZjRoC3ocQAvD_BwE",
+        "schedule": "Lunes a Domingo 10:00 a 23:00 h.",
+        "description": ""
+    },
+    {
+        "name": "KINJO RAMEN",
+        "address": "Av. Almirante Miguel Grau 680",
+        "district": "Barranco",
+        "type": "Internacional Japonesa Sushi Makki",
+        "photo": "https://media-cdn.tripadvisor.com/media/photo-w/10/f0/98/ae/photo5jpg.jpg",
+        "link": "https://www.facebook.com/kinjoramen/",
+        "schedule": "Lunes a Domingo 12:00 a 23:00 h.",
+        "description": "Somos un restaurante Japones eco-friendly donde encontraras Sopa Ramen, tonkatsu, gyozas y cervezas japonesas."
+    },
+    {
+        "name": "EL PEZ ON",
+        "address": "Calle San Martin 537 | Entre 7 y 8 de Av. Larco",
+        "district": "Miraflores",
+        "type": "Pescados Mariscos Ceviche",
+        "photo": "https://media-cdn.tripadvisor.com/media/photo-o/11/dd/a8/c8/ambiente-do-restaurante.jpg",
+        "link": "https://goo.gl/JYzUQZ",
+        "schedule": "Lunes a Jueves 12:00 a 20:00 h. || Viernes y Sábados 12:00 a 23:00 h. || Domingos 12:00 a 17:00 h.",
+        "description": "EL Pez On es una cadena de restaurantes especializados en ALTA GASTRONOMÍA MARINA, reconocido además por la calidad de sus insumos y su jocosa carta."
+    },
+    {
+        "name": "EL 10 CARNES",
+        "address": "Av. Petit Thouars 4599",
+        "district": "Miraflores",
+        "type": "Carnes Parrillas Asados",
+        "photo": "https://media-cdn.tripadvisor.com/media/photo-w/05/f6/f9/77/el-10-carnes-y-vinos.jpg",
+        "link": "https://www.facebook.com/El10CarnesyVinos/",
+        "schedule": "Lunes a domingo 12:00 a 23:00 h.",
+        "description": "El 10 es el resultado de una gran trayectoria y experiencia en el mundo de la gastronomía. ¿La receta? mucha pasión, los mejores ingredientes, todo a buen fuego cubierto con la misma dedicación de la comida casera."
+    },
+    {
+        "name": "POPEYES",
+        "address": "Av. Jose Larco 453",
+        "district": "Miraflores",
+        "type": "Fast Food Comida Rapida",
+        "photo": "https://media-cdn.tripadvisor.com/media/photo-o/08/b5/d1/5e/popeyes-louisiana-kitchen.jpg",
+        "link": "https://www.facebook.com/Popeyes-Per%C3%BA-173360593228730/",
+        "schedule": "Lunes a domingo 11:00 a 23:00 h.",
+        "description": "Restaurante de Comida Rapida especialidad en Pollos Broaster con su espectacular sabor de Lousianna."
+    },
+    {
+        "name": "WA LOK",
+        "address": "Av. Angamos Oeste 700",
+        "district": "Miraflores",
+        "type": "Internacional China Chaufa Chifa",
+        "photo": "https://media-cdn.tripadvisor.com/media/photo-w/0c/a3/93/ce/chifa.jpg",
+        "link": "https://www.facebook.com/WalokMiraflores/",
+        "schedule": "Lunes a Sabado 12:00 a 23:00 h. || Domingo 09:00 a 22:00 h.",
+        "description": ""
+    },
+    {
+        "name": "HANZO",
+        "address": "Av. Primavera 1494",
+        "district": "Surco",
+        "type": "Pescados Mariscos Internacional Japonesa",
+        "photo": "https://media-cdn.tripadvisor.com/media/photo-w/0e/12/97/63/photo3jpg.jpg",
+        "link": "https://www.facebook.com/hanzoperu/",
+        "schedule": "Lunes a Domingo de 12:30 a 14:00 h. & 19:30 a 23:30 h.",
+        "description": "HANZO RESTAURANTE te ofrece la mejor gastronomía japonesa adaptada al estilo de vida y gusto peruano."
+    },
+    {
+        "name": "LONG HORN",
+        "address": "Av Javier Prado Este 4200",
+        "district": "Surco",
+        "type": "Carnes Parrillas",
+        "photo": "https://media-cdn.tripadvisor.com/media/photo-o/07/8d/d6/07/longhorn.jpg",
+        "link": "https://www.facebook.com/LongHorn.Peru/",
+        "schedule": "Lunes a domingo apartir de las 12 hrs.",
+        "description": "LongHorn Grill & Drinks es una empresa peruana que inició hace mas de 15 años ofreciendo las mejores carnes, pastas y tragos. "
+    },
+    {
+        "name": "BURGER KING",
+        "address": "Av. Benavides 5005",
+        "district": "Surco",
+        "type": "Fast Food Comida Rapida",
+        "photo": "https://www.marseille-airport.com/var/mpaeroport/storage/images/media/images/restaurants/burger-king-produit/72375-2-fre-FR/burger-king-produit_full_restaurant.jpg",
+        "link": "https://www.facebook.com/BurgerKingPeru/",
+        "schedule": "Lunes a domingo 11:00 a 23:00 h.",
+        "description": "Nuestro producto bandera es la “Whopper”, deliciosa hamburguesa 100% carne de res, acompañada de lechuga, tomate, mayonesa, ketchup, cebolla y pickles"
+    },
+    {
+        "name": "LA BURRERIA",
+        "address": "Av. Caminos del Inca 236",
+        "district": "Surco",
+        "type": "Internacional Mexicana",
+        "photo": "http://grupocdr.com.mx/wp-content/uploads/2016/05/1.1.jpg",
+        "link": "https://www.facebook.com/Taconaco-465963200243657/",
+        "schedule": "Lunes a Domingo 12:00 a 11:00 h.",
+        "description": "Enchiladas, tacos y más!."
+    },
+    {
+        "name": "EL HUARIKE",
+        "address": "Av. San Borja Norrte 401",
+        "district": "San Borja",
+        "type": "Pescados Mariscos",
+        "photo": "https://media-cdn.tripadvisor.com/media/photo-s/01/ca/d0/6d/main-entrance.jpg",
+        "link": "https://www.facebook.com/elhuarike.restaurante/",
+        "schedule": "Lunes a domingo de 08:00 a 17:30 h.",
+        "description": "La idea de fundar El Huarike nace de la intención de los dueños de combinar la mezcla perfecta para el buen paladar: sabor, platos bien servidos y un ambiente acogedor. Por ello, le invitamos a disfrutar de la mejor selección en pescados y mariscos del Perú, y por qué no decirlo, del mejor cebiche."
+    },
+    {
+        "name": "CHINAWOK",
+        "address": "Av. Aviación 3620",
+        "district": "San Borja",
+        "type": "Fast Food Comida Rapida",
+        "photo": "https://realplaza.pe/uploads/tiendas-ws/china-wok-9215.jpg",
+        "link": "https://www.facebook.com/ChinaWokPeru/",
+        "schedule": "Lunes a domingo 11:00 a 23:00 h.",
+        "description": "¡Somos China Wok y te ofrecemos nuestro generoso sabor oriental, de calidad y de manera rápida!"
+    },
+    {
+        "name": "ANTICA",
+        "address": "Av. Primavera 275",
+        "district": "San Borja",
+        "type": "Internacional Italiana Pizeria",
+        "photo": "https://media-cdn.tripadvisor.com/media/photo-o/13/a2/c3/6c/20180709-225015-largejpg.jpg",
+        "link": "http://www.anticapizzeria.com.pe/index.php",
+        "schedule": "Lunes a Domingo 12:00 a 00:00 h.",
+        "description": "En Antica Pizzería puedes saborear una selección de pastas frescas, pizza a la leña, ensaladas, postres acompañados de la mejor variedad de vinos."
+    },
+    {
+        "name": "ESTRELLA CHINA",
+        "address": "Av. Defensores del Morro 375",
+        "district": "Chorrillos",
+        "type": "Internacional China Chifa chaufa",
+        "photo": "https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/11907151_883903665031346_8259150064903871576_n.jpg?_nc_cat=0&oh=d85070bd69d8c686324b87657ca1d857&oe=5BF0BE50",
+        "link": "https://www.facebook.com/zhongguoxing/",
+        "schedule": "Lunes a Domingo 12:00 a 00:00 pm",
+        "description": "Especialidad en comidad Oriental. Podras degustar de excelentes platillos orientales"
+    },
+    {
+        "name": "G&M PARRILLAS",
+        "address": "Av. Aviacion 3424",
+        "district": "San Borja",
+        "type": "Carnes Parrillas",
+        "photo": "https://media-cdn.tripadvisor.com/media/photo-o/0a/56/f4/4e/gian-marco-parrillas.jpg",
+        "link": "https://www.facebook.com/gianymarcoparrillas/?hc_ref=ARQh38qCV23OOpQonIHVYJud6OeNrq3cDgrii9g6x7iGbun3vnkadNrTuFSCfVuZYi4&fref=nfhttps://www.facebook.com/gianymarcoparrillas/?hc_ref=ARQh38qCV23OOpQonIHVYJud6OeNrq3cDgrii9g6x7iGbun3vnkadNrTuFSCfVuZYi4&fref=nf",
+        "schedule": "Lunes a domingo de 12:00 a 23:30 h.",
+        "description": "Contamos con el mejor personal en bar, cocina y parrilla."
+    }
+]
