@@ -31,11 +31,11 @@ p {
   font-family: 'Monoton', cursive;
 }
 
-#color-one {
+.color-one {
 color: #ED254E;
 }
 
-#color-two {
+.color-two {
 color: #050505;
 }
 
