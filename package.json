@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/jslyne/lim-2018-01-foodmap/issues"
   },
-  "homepage": "https://github.com/jslyne/lim-2018-01-foodmap/splash.html",
+  "homepage": "https://github.com/jslyne/lim-2018-01-foodmap/splash.html  ",
   "dependencies": {
     "chai": "^4.1.2",
     "eslint": "^4.19.1",
