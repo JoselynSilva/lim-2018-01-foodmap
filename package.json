@@ -2,7 +2,7 @@
   "name": "foodsy",
   "version": "1.0.0",
   "description": "Wep App de comida.",
-  "main": "src/splash.html",
+  "main": "src/index.html",
   "scripts": {
     "htmlhint": "htmlhint src/*.html test/*.html",
     "eslint": "eslint --ext .js src/ test/",
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/jslyne/lim-2018-01-foodmap/issues"
   },
-  "homepage": "https://github.com/jslyne/lim-2018-01-foodmap/splash.html  ",
+  "homepage": "https://github.com/jslyne/lim-2018-01-foodmap/index.html  ",
   "dependencies": {
     "chai": "^4.1.2",
     "eslint": "^4.19.1",
