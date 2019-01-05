@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Monoton');
-
-.section-nav{
+.section-nav {
     position: fixed;
     top: 0;
     left: 0;
@@ -11,6 +10,7 @@
 .hero-head {
     background-color: white;
 }
+
 .panel-block {
     margin: 10px;
 }
@@ -34,4 +34,15 @@
     padding: 0px;
     font-size: 25px;
     font-family: 'Monoton', cursive;
+}
+
+.red-pink {
+    color: white;
+}
+
+.footer-pink {
+    padding-bottom: 15px;
+    text-align: center;
+    font-family: 'Monoton', cursive;
+    font-size: 15px
 }

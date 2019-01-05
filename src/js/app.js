@@ -12,22 +12,24 @@ const printFoodsy = (name, address, district, photo, description, schedule, link
     let templateRestaurant = '';
     templateRestaurant +=
         `<div class="col m4">
-            <div class="card">
+            <div class="card hoverable">
                 <div class="card-image waves-effect waves-block waves-light" >
                     <img class="activator imagen" src="${photo}">
                 </div>
                 <div class="card-content">
-                    <span class="card-title titulo activator grey-text text-darken-4">${name}<i class="material-icons right">info</i></span>
-                    <p><a href="${link}" target="_blank">Ir a la pagina</a></p>
+                    <a class="card-title titulo activator grey-text text-darken-4">${name}<span class="btn-floating blue accent-3 pulse right"><i class="material-icons">+</i></span></a>
                 </div>
-                <div class="card-reveal">
-                    <span class="card-title grey-text text-darken-4">${name}<i class="material-icons right">X</i></span>
+                <div class="card-action">
+                <p><a href="${link}" target="_blank" style="color: #2979FF ">Ir a la pagina</a></p>
+                </div>
+                <div class="card-reveal justify-align">
+                    <span class="card-title blue-text text-accent-3">${name}<span class="btn-floating waves-effect waves-light blue accent-3 right"><i class="fas fa-times-circle"></i></span></span>
                     <br>
-                    <p>${address} - ${district}</p>
+                    <p class="grey-text text-darken-3">${address} - ${district}</p>
                     <br>
-                    <p>${schedule}</p>
+                    <p class="blue-text text-accent-4">${schedule}</p>
                     <br>
-                    <p>${description}</p>
+                    <p class="grey-text text-darken-3">${description}</p>
                 </div>
             </div>
         </div>`;
@@ -44,4 +46,3 @@ fetch('../data/foodsy.json')
         });
     })
     .catch(error => console.log(error));
-

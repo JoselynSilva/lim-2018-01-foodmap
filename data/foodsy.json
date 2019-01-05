@@ -1,5 +1,4 @@
-[
-    {
+[{
         "name": "CALA",
         "address": "Playa Barranquito Circuito Vial Costa Verde",
         "district": "Barranco",
@@ -19,16 +18,7 @@
         "schedule": "Lunes a domingo 11:00 a 23:00 h.",
         "description": "La Parriteca les da la bienvenida a nuestra exclusiva selección de carnes Argentina, Uruguayas y Americanas de la más alta calidad para exceder sus más altas expectativas en términos de sabor, textura y frescura."
     },
-    {
-        "name": "SANGUCHERIA",
-        "address": "Av. Almirante Miguel Grau 393",
-        "district": "Barranco",
-        "type": "Fast Food Comida Rapida Hamburguesa",
-        "photo": "https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/10998014_10153570747274560_6576041860808587142_n.jpg?_nc_cat=0&oh=ef87191a2cc8fb8a6c4dd6d3c39251a9&oe=5C0DAE5A",
-        "link": "https://www.facebook.com/sangucheriarefilo/",
-        "schedule": "Lunes a domingo 08:30 a 15:00 h.",
-        "description": "Sangucheria Peruana "
-    },
+
     {
         "name": "MIRASOL",
         "address": "Paseo Soldado Desconocido 209",
@@ -140,16 +130,6 @@
         "description": "Nuestro producto bandera es la “Whopper”, deliciosa hamburguesa 100% carne de res, acompañada de lechuga, tomate, mayonesa, ketchup, cebolla y pickles"
     },
     {
-        "name": "LA BURRERIA",
-        "address": "Av. Caminos del Inca 236",
-        "district": "Surco",
-        "type": "Internacional Mexicana",
-        "photo": "http://grupocdr.com.mx/wp-content/uploads/2016/05/1.1.jpg",
-        "link": "https://www.facebook.com/Taconaco-465963200243657/",
-        "schedule": "Lunes a Domingo 12:00 a 11:00 h.",
-        "description": "Enchiladas, tacos y más!."
-    },
-    {
         "name": "EL HUARIKE",
         "address": "Av. San Borja Norrte 401",
         "district": "San Borja",
@@ -178,16 +158,6 @@
         "link": "http://www.anticapizzeria.com.pe/index.php",
         "schedule": "Lunes a Domingo 12:00 a 00:00 h.",
         "description": "En Antica Pizzería puedes saborear una selección de pastas frescas, pizza a la leña, ensaladas, postres acompañados de la mejor variedad de vinos."
-    },
-    {
-        "name": "ESTRELLA CHINA",
-        "address": "Av. Defensores del Morro 375",
-        "district": "Chorrillos",
-        "type": "Internacional China Chifa chaufa",
-        "photo": "https://scontent-scl1-1.xx.fbcdn.net/v/t1.0-9/11907151_883903665031346_8259150064903871576_n.jpg?_nc_cat=0&oh=d85070bd69d8c686324b87657ca1d857&oe=5BF0BE50",
-        "link": "https://www.facebook.com/zhongguoxing/",
-        "schedule": "Lunes a Domingo 12:00 a 00:00 pm",
-        "description": "Especialidad en comidad Oriental. Podras degustar de excelentes platillos orientales"
     },
     {
         "name": "G&M PARRILLAS",
